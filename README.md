@@ -5,8 +5,8 @@
 - 🔭 I’m currently studying Computer Science at UC Irvine!
 - 🌱 I’m currently learning back-end development, including redis, RabbitMQ...
 - 👯 I’m looking to learn almost everything interesting.
-- 🥅 2020 Goals: Find my first full-time Software Development Engineer job.
-- ⚡ Fun fact: I am a hardcore video gamer 🤣
+- 🥅 2020 Goals: Find my full-time Software Development Engineer job.
+- ⚡ Fun fact: I am a hardcore computer hardware enthusiast 🤣
 
 ### Languages and Tools:
 
