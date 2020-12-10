@@ -39,11 +39,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/siyile/facus-api/pull/12) in [siyile/facus-api](https://github.com/siyile/facus-api)
-2. 🎉 Merged PR [#11](https://github.com/siyile/facus-api/pull/11) in [siyile/facus-api](https://github.com/siyile/facus-api)
-3. 💪 Opened PR [#11](https://github.com/siyile/facus-api/pull/11) in [siyile/facus-api](https://github.com/siyile/facus-api)
-4. 🎉 Merged PR [#6](https://github.com/siyile/facus-web/pull/6) in [siyile/facus-web](https://github.com/siyile/facus-web)
-5. 💪 Opened PR [#6](https://github.com/siyile/facus-web/pull/6) in [siyile/facus-web](https://github.com/siyile/facus-web)
+1. 🎉 Merged PR [#9](https://github.com/siyile/facus-web/pull/9) in [siyile/facus-web](https://github.com/siyile/facus-web)
+2. 💪 Opened PR [#9](https://github.com/siyile/facus-web/pull/9) in [siyile/facus-web](https://github.com/siyile/facus-web)
+3. 🎉 Merged PR [#8](https://github.com/siyile/facus-web/pull/8) in [siyile/facus-web](https://github.com/siyile/facus-web)
+4. 💪 Opened PR [#8](https://github.com/siyile/facus-web/pull/8) in [siyile/facus-web](https://github.com/siyile/facus-web)
+5. 🎉 Merged PR [#12](https://github.com/siyile/facus-api/pull/12) in [siyile/facus-api](https://github.com/siyile/facus-api)
 <!--END_SECTION:activity-->
 
 </details>
