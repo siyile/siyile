@@ -30,7 +30,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Quick template to test Redux Tool Kit and React Router with Jest](https://dev.to/siyile/quick-template-to-test-redux-tool-kit-and-react-router-with-jest-34ll)
-- [Promise.allSettled() and Promise.any()](https://dev.to/siyile/promise-allsettled-and-promise-any-6n5)
+- [Promise.allSettled&lpar;&rpar; and Promise.any&lpar;&rpar;](https://dev.to/siyile/promise-allsettled-and-promise-any-6n5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
